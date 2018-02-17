@@ -1,1 +1,1 @@
-<p>Мой html+Bootstrap проэкт</p>
+<p>Мой html+Bootstrap проект</p>
