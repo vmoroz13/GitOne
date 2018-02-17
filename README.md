@@ -1,2 +1,1 @@
-# GitOne
-Пробный проект
+<p>Мой html+Bootstrap проэкт</p>
